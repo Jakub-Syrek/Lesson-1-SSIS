@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="SERVERQB.AdventureWorksDW2012.ExternalAdmin"
+  DTS:DTSID="{BA3B723F-6A7D-4B29-A097-F4A2C4C384F7}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=SERVERQB;User ID=ExternalAdmin;Initial Catalog=AdventureWorksDW2012;Provider=SQLNCLI11.1;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAoEdkom+fp0u05moMIv8jZwAAAAACAAAAAAAQZgAAAAEAACAAAAAR/wPOyv909/KgH45LZ+H5/B2kUlX2BysJeCwo5eN88gAAAAAOgAAAAAIAACAAAAAzYXZUXxP8VQyzrlCpw9Z/xwao3Eh0wEFSLAqZHbAaHoAAAADLYyPMTOwK7tn0IZt9ShDJbexx0UelHB0KdHMlCiMK75xCZ2wOYHd7yW8Ke8oLy5M4XRRAMc3pHtCixA11yhncgLuwuYAtHhHEvMJw+WOvOmHpr0YrhP2g7h6NBJnN4h2nQvGebp95gibPDyiq/CVddSnXHZ28Lu6e75/ooU8bmkAAAADrmn7fO3gCaHDYppjoZOeNx1EvQEUzpuBZO5UJqrt8itYK/zBCmoEOM8JHlQ39shSsSCFbEAulhiE2z4VmXXFB</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
