@@ -5,14 +5,14 @@
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="QB"
   DTS:CreatorName="QB\jaqbs"
-  DTS:DTSID="{8AAAD04D-E751-47EC-9DE8-4F95B4BA80E2}"
+  DTS:DTSID="{A017B8E7-8F02-4EA6-BEF7-111F4747FF9B}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="15.0.1300.371"
   DTS:LocaleID="1033"
   DTS:ObjectName="Lesson2"
   DTS:PackageType="5"
-  DTS:VersionBuild="5"
-  DTS:VersionGUID="{EBC53176-CF89-4834-A654-388A3DB129E6}">
+  DTS:VersionBuild="6"
+  DTS:VersionGUID="{51E6407A-6AAC-4644-B04C-1B7770CD0A0F}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />
