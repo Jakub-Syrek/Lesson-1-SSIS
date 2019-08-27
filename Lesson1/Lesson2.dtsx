@@ -5,14 +5,14 @@
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="QB"
   DTS:CreatorName="QB\jaqbs"
-  DTS:DTSID="{ACF2B851-EFE6-4C62-AE09-7C1636E74947}"
+  DTS:DTSID="{8AAAD04D-E751-47EC-9DE8-4F95B4BA80E2}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="15.0.1300.371"
   DTS:LocaleID="1033"
-  DTS:ObjectName="Package"
+  DTS:ObjectName="Lesson2"
   DTS:PackageType="5"
-  DTS:VersionBuild="3"
-  DTS:VersionGUID="{2819001F-F8A1-4CCC-ACDA-38704AA4E0D9}">
+  DTS:VersionBuild="5"
+  DTS:VersionGUID="{EBC53176-CF89-4834-A654-388A3DB129E6}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />
@@ -21,7 +21,7 @@
       DTS:refId="Package\Extract Sample Currency Data"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Data Flow Task"
-      DTS:DTSID="{3664A082-F4AE-422D-857C-CC811B1265BD}"
+      DTS:DTSID="{7D9B0FEE-E60B-4AC5-90F8-92955821C15B}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
       DTS:ObjectName="Extract Sample Currency Data"
