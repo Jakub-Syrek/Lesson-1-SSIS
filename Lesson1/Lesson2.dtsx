@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Lesson2"
   DTS:PackageType="5"
-  DTS:VersionBuild="14"
-  DTS:VersionGUID="{6FDAB900-7DC9-41B1-B6C7-019AC7D20818}">
+  DTS:VersionBuild="15"
+  DTS:VersionGUID="{CE43B3AD-C2E5-4125-B157-B121D1BC66B1}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -873,21 +873,21 @@ where [refTable].[FullDateAlternateKey] = ?</property>
         <NodeLayout
           Size="163,42"
           Id="Package\Execute SQL Task"
-          TopLeft="476,83" />
+          TopLeft="477,155" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint]"
-          TopLeft="558.75,125">
+          TopLeft="559.25,197">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,129"
+              EndConnector="0,57"
               Start="0,0"
-              End="0,121.5">
+              End="0,49.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,121.5" />
+                    End="0,49.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
