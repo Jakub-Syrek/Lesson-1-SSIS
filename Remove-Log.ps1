@@ -1,0 +1,1 @@
+﻿if(Test-Path C:\Users\jaqbs\source\repos\Lesson1\Logs\TutorialLog ){ Remove-Item –path C:\Users\jaqbs\source\repos\Lesson1\Logs\TutorialLog -Force}
